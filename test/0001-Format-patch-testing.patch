@@ -1,0 +1,19 @@
+commit 84379ffb7601be5ca4e490193f69a32c4e594704
+Author: tushar.rabadiya3 <tushar.rabadiya@volansystech.com>
+Date:   Thu Feb 8 12:31:08 2018 +0530
+
+    Change pixel to test image
+
+diff --git a/documents/USER_GUIDE.md b/documents/USER_GUIDE.md
+index c3bd53d..c50fb8c 100644
+--- a/documents/USER_GUIDE.md
++++ b/documents/USER_GUIDE.md
+@@ -334,7 +334,7 @@ Note: Refer Help -> User Manual to getting started with HAT tool.
+ * Click on custom firmware update characteristic - "13b13b1b-9dc4-4d46-8ba8-575800e4d5fb". It will show the screen as per below.
+ 
+ <p align="center">
+-  <img src="media/ota-url.png" width=250px/>
++  <img src="media/ota-url.png" width=500px/>
+ </p>
+ 
+ Enter firmware update URL in the highlighted text box. Make sure that this URL can be accessible by accessory without prior authentication. This URL is the location of new firmware binary. Then click on "Write" box.
